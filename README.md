@@ -102,9 +102,9 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 11: Production Load Balancing & Auto Scaling](https://linkedin.com/in/david-onoja)
-- [Week 10: VPC Networking - Multi-AZ Architecture](https://linkedin.com/in/david-onoja)
-- [Week 9: S3 Storage & Cost Optimization](https://linkedin.com/in/david-onoja)
+- [Week 11: Production Load Balancing & Auto Scaling](https://www.linkedin.com/in/david-onoja-349082288/)
+- [Week 10: VPC Networking - Multi-AZ Architecture](https://www.linkedin.com/in/david-onoja-349082288/)
+- [Week 9: S3 Storage & Cost Optimization](https://www.linkedin.com/in/david-onoja-349082288/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -112,9 +112,9 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/david-onoja"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/davidonoja"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:onoladavison@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/david-onoja-349082288/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="@daveops_iac"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:onojadavison@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/Davidblitx"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
