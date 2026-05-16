@@ -129,6 +129,7 @@
 ---
 
 ## 🐍 Contribution Graph
+![Github Snake](https://raw.githubusercontent.com/Davidblitx/Davidblitx/output/github-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davidblitx/Davidblitx/output/github-contribution-grid-snake-dark.svg">
