@@ -21,7 +21,7 @@
 🔭 **Currently:** Mastering Terraform & Infrastructure as Code  
 🌱 **Learning:** CI/CD Pipelines, Kubernetes, Advanced AWS  
 💡 **Goal:** DevOps Engineer  
-📫 **Reach me:** onoladavison@gmail.com  
+📫 **Reach me:** onojadavison@gmail.com  
 
 ---
 
