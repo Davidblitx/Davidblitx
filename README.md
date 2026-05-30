@@ -20,7 +20,7 @@
 🎓 **Education:** B.Sc. Computer Science, University of Nigeria, Nsukka  
 🔭 **Currently:** Mastering Terraform & Infrastructure as Code  
 🌱 **Learning:** CI/CD Pipelines, Kubernetes, Advanced AWS  
-💡 **Goal:** NYSC DevOps placement at Nigerian fintech (Paystack, Flutterwave)  
+💡 **Goal:** DevOps Engineer  
 📫 **Reach me:** onoladavison@gmail.com  
 
 ---
