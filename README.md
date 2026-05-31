@@ -18,7 +18,7 @@
 🎯 **DevOps Engineer** building production-grade cloud infrastructure  
 🌍 **Based in:** Lagos, Nigeria  
 🎓 **Education:** B.Sc. Computer Science, University of Nigeria, Nsukka  
-🔭 **Currently:** Mastering Terraform & Infrastructure as Code  
+🔭 **Currently:** Mastering Containerization and Kubernetes 
 🌱 **Learning:** CI/CD Pipelines, Kubernetes, Advanced AWS  
 💡 **Goal:** DevOps Engineer  
 📫 **Reach me:** onojadavison@gmail.com  
