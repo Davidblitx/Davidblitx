@@ -72,6 +72,13 @@
 - IAM security policies
 - **Tech:** AWS S3, IAM, Lifecycle Rules
 
+### ☁️ [Production-Grade AWS Infrastrcutre](https://github.com/Davidblitx/aws-learning/tree/main/week9-storage)
+**S3 Bucket Architecture with Cost Optimization**
+- Versioning and lifecycle policies
+- Achieved 71% storage cost reduction
+- IAM security policies
+- **Tech:** AWS S3, IAM, Lifecycle Rules
+
 ---
 
 ## 📊 GitHub Stats
