@@ -49,35 +49,29 @@
 
 ## 🏗️ Featured Projects
 
-### 🔥 [Production AWS Infrastructure](https://github.com/Davidblitx/aws-learning/tree/main/week11-load-balancing)
-**Multi-AZ, Load-Balanced, Auto-Scaling Infrastructure**
-- Designed production-grade VPC with public/private subnets across 2 AZs
-- Configured Application Load Balancer with health checks
-- Implemented Auto Scaling (40% cost optimization)
-- Built comprehensive CloudWatch monitoring (2-min failure detection)
-- **Tech:** AWS VPC, EC2, ALB, ASG, CloudWatch, SNS
+### 🖥️ [prod-web-server](https://github.com/Davidblitx/prod-web-server)
+**Production-Grade Single-Server Web Infrastructure**
+- AWS EC2 + Docker + Nginx stack with automated self-healing scripts
+- Simulates real-world DevOps and cloud engineering practices
+- **Tech:** Shell, Docker, Nginx, AWS EC2
 
-### 🐳 [Terraform Infrastructure as Code](https://github.com/Davidblitx/terraform-projects)
-**Rebuilding AWS Infrastructure with Terraform**
-- EC2 deployment automation
-- VPC networking as code
-- ALB + ASG with launch templates
-- Reusable Terraform modules
-- **Tech:** Terraform, HCL, AWS, IaC
+### 🤖 [distributed-inference-platform](https://github.com/Davidblitx/distributed-inference-platform)
+**Distributed AI Inference System on AWS**
+- Private networking with RPC-based worker communication
+- Fully provisioned with Infrastructure-as-Code
+- **Tech:** Shell, AWS, IaC
 
-### ☁️ [Cloud Storage & Lifecycle Management](https://github.com/Davidblitx/aws-learning/tree/main/week9-storage)
-**S3 Bucket Architecture with Cost Optimization**
-- Versioning and lifecycle policies
-- Achieved 71% storage cost reduction
-- IAM security policies
-- **Tech:** AWS S3, IAM, Lifecycle Rules
+### 🔧 [terraform-cicd-pipeline](https://github.com/Davidblitx/terraform-cicd-pipeline)
+**Production AWS Infrastructure with Terraform + CI/CD**
+- Custom VPC, EC2, ECR, and security groups provisioned from code
+- GitHub Actions CI/CD pipeline for automated Docker image builds
+- **Tech:** Terraform, HCL, AWS, GitHub Actions
 
-### ☁️ [Production-Grade AWS Infrastrcutre](https://github.com/Davidblitx/aws-learning/tree/main/week9-storage)
-**S3 Bucket Architecture with Cost Optimization**
-- Versioning and lifecycle policies
-- Achieved 71% storage cost reduction
-- IAM security policies
-- **Tech:** AWS S3, IAM, Lifecycle Rules
+### 🧠 [cerebro-sentinel](https://github.com/Davidblitx/cerebro-sentinel)
+**Local-First Sovereign AI Agent**
+- Proactive, self-learning, privacy-preserving AI agent
+- Watches your codebase, monitors system, acts autonomously with no data leakage
+- **Tech:** Python, LangChain, Qdrant, Ollama
 
 ---
 
