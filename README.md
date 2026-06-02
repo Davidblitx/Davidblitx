@@ -103,9 +103,9 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 11: Production Load Balancing & Auto Scaling](https://www.linkedin.com/in/david-onoja-349082288/)
-- [Week 10: VPC Networking - Multi-AZ Architecture](https://www.linkedin.com/in/david-onoja-349082288/)
-- [Week 9: S3 Storage & Cost Optimization](https://www.linkedin.com/in/david-onoja-349082288/)
+- [prod-web-server](https://www.linkedin.com/in/david-onoja-349082288/)
+- [[distributed-inference-platform](https://www.linkedin.com/in/david-onoja-349082288/)
+- [terraform-cicd-pipeline](https://www.linkedin.com/in/david-onoja-349082288/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
