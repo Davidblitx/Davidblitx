@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Building+Production+Infrastructure;AWS+%7C+Linux+%7C+Terraform+%7C+Docker;Learning+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Building+Production+Infrastructure;AWS+%7C+Terraform+%7C+Docker+%7C+GitOps;Learning+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,12 +15,11 @@
 
 ## 👨‍💻 About Me
 
-🎯 **DevOps Engineer** building production-grade cloud infrastructure  
+🎯 **DevOps Engineer** building production-grade cloud infrastructure from first principles  
 🌍 **Based in:** Lagos, Nigeria  
 🎓 **Education:** B.Sc. Computer Science, University of Nigeria, Nsukka  
-🔭 **Currently:** Mastering Containerization and Kubernetes 
-🌱 **Learning:** CI/CD Pipelines, Kubernetes, Advanced AWS  
-💡 **Goal:** DevOps Engineer  
+🔭 **Currently:** Building towards AWS Solutions Architect certification  
+🌱 **Next:** Kubernetes  
 📫 **Reach me:** onojadavison@gmail.com  
 
 ---
@@ -33,26 +32,46 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### CI/CD & GitOps
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ### Programming & Scripting
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Currently Learning
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
 ## 🏗️ Featured Projects
 
+### 🏆 [ha-platform-prod](https://github.com/Davidblitx/ha-platform-prod)
+**Production-Grade Highly Available Web Platform with Full Observability**
+> Built to solve three real failure modes: traffic spike outages, no automatic instance recovery, and zero visibility before customers complained.
+
+- Multi-AZ VPC with ALB, Auto Scaling Group, and containerized Flask/Gunicorn/Nginx in private subnets
+- Modular Terraform IaC with S3 remote state and GitHub Actions CI/CD (tflint → tfsec → plan → manual approval → apply)
+- Self-hosted Prometheus + Grafana + Alertmanager observability alongside CloudWatch — no SSH, no open inbound ports
+- Full documentation: Architecture Decision Records, postmortem, and on-call runbook
+- **Tech:** AWS, Terraform, Docker, Nginx, Gunicorn, Flask, Prometheus, Grafana, GitHub Actions, Bash, Python
+
+### 🔧 [terraform-cicd-pipeline](https://github.com/Davidblitx/terraform-cicd-pipeline)
+**Production AWS Infrastructure with Terraform + CI/CD**
+- Custom VPC, EC2, ECR, and security groups provisioned entirely from code
+- GitHub Actions CI/CD pipeline for automated Docker image builds and deployments
+- **Tech:** Terraform, HCL, AWS, GitHub Actions
+
 ### 🖥️ [prod-web-server](https://github.com/Davidblitx/prod-web-server)
 **Production-Grade Single-Server Web Infrastructure**
 - AWS EC2 + Docker + Nginx stack with automated self-healing scripts
-- Simulates real-world DevOps and cloud engineering practices
+- SSH hardening, Fail2Ban, security group configuration
 - **Tech:** Shell, Docker, Nginx, AWS EC2
 
 ### 🤖 [distributed-inference-platform](https://github.com/Davidblitx/distributed-inference-platform)
@@ -61,16 +80,10 @@
 - Fully provisioned with Infrastructure-as-Code
 - **Tech:** Shell, AWS, IaC
 
-### 🔧 [terraform-cicd-pipeline](https://github.com/Davidblitx/terraform-cicd-pipeline)
-**Production AWS Infrastructure with Terraform + CI/CD**
-- Custom VPC, EC2, ECR, and security groups provisioned from code
-- GitHub Actions CI/CD pipeline for automated Docker image builds
-- **Tech:** Terraform, HCL, AWS, GitHub Actions
-
 ### 🧠 [cerebro-sentinel](https://github.com/Davidblitx/cerebro-sentinel)
 **Local-First Sovereign AI Agent**
 - Proactive, self-learning, privacy-preserving AI agent
-- Watches your codebase, monitors system, acts autonomously with no data leakage
+- Watches codebase, monitors system, acts autonomously with no data leakage
 - **Tech:** Python, LangChain, Qdrant, Ollama
 
 ---
@@ -90,23 +103,13 @@
 
 ## 🏆 Achievements
 
-- ✅ **13 Weeks** of intensive DevOps self-learning
-- ✅ Built **production-grade** multi-AZ infrastructure
-- ✅ Achieved **40% cost optimization** with Auto Scaling
-- ✅ Configured **self-healing** infrastructure (6-min RTO)
-- ✅ Enrolled in **TS Academy DevOps Bootcamp**
-- ✅ Active technical blogger (LinkedIn + X/Twitter)
-- 🎯 **Next:** AWS Solutions Architect Certification
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [prod-web-server](https://www.linkedin.com/in/david-onoja-349082288/)
-- [distributed-inference-platform](https://www.linkedin.com/in/david-onoja-349082288/)
-- [terraform-cicd-pipeline](https://www.linkedin.com/in/david-onoja-349082288/)
-<!-- BLOG-POST-LIST:END -->
+- ✅ Built production-grade multi-AZ HA infrastructure from first principles
+- ✅ Configured self-healing infrastructure with ALB + ASG health checks
+- ✅ Implemented GitOps pipeline with security scanning and manual approval gates
+- ✅ Full observability stack: Prometheus, Grafana, Alertmanager, CloudWatch
+- ✅ Zero open inbound ports — SSM Session Manager across entire platform
+- ✅ Enrolled in TS Academy DevOps Bootcamp
+- 🎯 **Next:** AWS Solutions Architect Associate certification
 
 ---
 
@@ -130,7 +133,6 @@
 ---
 
 ## 🐍 Contribution Graph
-![Github Snake](https://raw.githubusercontent.com/Davidblitx/Davidblitx/output/github-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davidblitx/Davidblitx/output/github-contribution-grid-snake-dark.svg">
@@ -145,9 +147,5 @@
 </div>
 
 <p align="center">
-  <i>⚡ "Infrastructure as Code | Cloud Native | Always Learning" ⚡</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Davidblitx&style=flat-square&color=blue" alt="Profile views"/>
+  <i>⚡ "Infrastructure as Code | GitOps | Always Learning" ⚡</i>
 </p>
