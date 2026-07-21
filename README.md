@@ -114,16 +114,6 @@
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [prod-web-server](https://www.linkedin.com/in/david-onoja-349082288/)
-- [distributed-inference-platform](https://www.linkedin.com/in/david-onoja-349082288/)
-- [terraform-cicd-pipeline](https://www.linkedin.com/in/david-onoja-349082288/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
