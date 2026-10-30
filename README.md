@@ -110,7 +110,8 @@
 - ✅ Full observability stack: Prometheus, Grafana, Alertmanager, CloudWatch
 - ✅ Zero open inbound ports — SSM Session Manager across entire platform
 - ✅ Enrolled in TS Academy DevOps Bootcamp
-- 🎯 **Next:** AWS Solutions Architect Associate certification
+- ✅ AWS Solutions Architect Associate certification
+- 🎯 **Next:** Hashicorp Certified: Terraform Associate 
 
 ---
 
