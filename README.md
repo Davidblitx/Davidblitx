@@ -19,7 +19,7 @@
 🌍 **Based in:** Lagos, Nigeria  
 🎓 **Education:** B.Sc. Computer Science, University of Nigeria, Nsukka  
 🔭 **Currently:** Mastering Containerization and Kubernetes 
-🌱 **Learning:** CI/CD Pipelines, Kubernetes, Advanced AWS  
+🌱 **Upskilling:** CI/CD Pipelines, Kubernetes, Advanced AWS  
 💡 **Goal:** DevOps Engineer  
 📫 **Reach me:** onojadavison@gmail.com  
 
@@ -46,7 +46,7 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Currently Learning
+### Actively Upskilling
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
